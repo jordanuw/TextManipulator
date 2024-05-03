@@ -1,0 +1,30 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 10px lime;
+}
+
+.note
+{
+    font-size: 15;
+    color: darkgoldenrod;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: darkslategray;
+    background-color: darkturquoise;
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid cyan;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lime;
+}
